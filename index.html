@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>journal</title>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-3.1.0.js"></script>
+    <script type="text/javascript" src="build/js/app.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Test Journal</h1>
+      <form>
+        <div class="form-group">
+          <label for="title">A title</label>
+          <input id="title" class="form-control" type="text">
+        </div>
+        <div class="form-group">
+          <label for="body">Enter your journal text!</label>
+          <input id="body" class="form-control" type="text">
+        </div>
+        <button type="submit" class="btn">Add my entry!</button>
+      </form>
+      <div>
+        <h1 id="newtitle"></h1>
+        <p id="newbody">
+        </p>
+        <p id="newword">
+        </p>
+        <p id="newvowel">
+        </p>
+        <p id="newconsonant">
+        </p>
+        <p id="newteaser">
+        </p>
+      </div>
+      <div>
+        <form id="signup">
+          <label for="email">Enter your email to receive updates:</label>
+          <input id="email" type="text">
+          <button type="submit">Submit</button>
+        </form>
+        <ul id="solution"></ul>
+      </div>
+    </div>
+  </body>
+</html>
