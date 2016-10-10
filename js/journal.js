@@ -24,4 +24,4 @@ Entry.prototype.getTeaser = function(body) {
   }
 }
 
-// exports.entryModule = Entry;
+exports.entryModule = Entry;

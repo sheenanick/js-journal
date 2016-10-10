@@ -1,4 +1,4 @@
-// var Entry = require('./../js/journal.js').entryModule;
+var Entry = require('./../js/journal.js').entryModule;
 
 $(document).ready(function(){
   $("form").submit(function(event) {
