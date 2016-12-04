@@ -2,7 +2,7 @@
 
 #### _Epicodus JavaScript Week 1, 10.10.2016_
 
-#### By Sheena Nickerson
+#### By Sheena Nickerson and Addison Nishijima
 
 ## Description
 
@@ -30,4 +30,4 @@ Please feel free to contact sheenanick@gmail.com if you have any issues or quest
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_Sheena Nickerson_**
+Copyright (c) 2016 **_Sheena Nickerson and Addison Nishijima_**
